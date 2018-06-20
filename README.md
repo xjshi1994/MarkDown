@@ -3,6 +3,4 @@
 [MarkDown tutorial - EN](https://guides.github.com/features/mastering-markdown/)
 
 ## Code
-> use this ```LANGUAGE  
->             {CODE BLOCK}
->          ```
+> use this Up-left corner symbol `
